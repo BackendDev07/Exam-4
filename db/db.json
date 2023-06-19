@@ -1,0 +1,25 @@
+{
+    "id": 3,
+    "books": [
+        {
+            "id": 0,
+            "title": "asfdasdf",
+            "author": "aoishdfsh",
+            "price": 34000
+        }
+    ],
+    "todos": [
+        {
+            "id": 0,
+            "title": "asfdasdf",
+            "author": "aoishdfsh",
+            "price": 34000
+        },
+        {
+            "id": 3,
+            "title": "vbncf",
+            "author": "Sayfullin",
+            "price": 130000000
+        }
+    ]
+}
